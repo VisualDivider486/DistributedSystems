@@ -1,1 +1,1 @@
-6th semester Distributed Sysytems' project 
+6th semester Distributed Systems' project 
