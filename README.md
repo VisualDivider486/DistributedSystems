@@ -1,1 +1,1 @@
-6th semester distrivutes_sysytems' project 
+6th semester Distributed Sysytems' project 
