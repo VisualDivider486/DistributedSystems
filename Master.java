@@ -1,6 +1,6 @@
 import java.io.*;
 import java.net.*;
-import java.util.ArrayList;
+import java.util.*;
 
 class Master{ //implements Runnable{
 
@@ -10,48 +10,30 @@ class Master{ //implements Runnable{
     ObjectInputStream in;
     ObjectOutputStream out;
 
-    private ArrayList <Worker> listOfWorkers;
-
     Master(){
 
     }
 
     Master(int numOfWorkers){
         this.numOfWorkers = numOfWorkers;
-        listOfWorkers = new ArrayList<Worker>();
-        for (int i = 1; i <= numOfWorkers; i++){
-            Worker worker = new Worker(i);
-            System.out.println("Creating worker number.. " + worker.getId());
-            System.out.println(worker);
-            listOfWorkers.add(worker);
-            System.out.println("eftiaksa ton ergath");
-            System.out.println(listOfWorkers.size());
-        }
     }
 
     int getNumOfWorkers(){
         return this.numOfWorkers;
     }
-
-    public ArrayList<Worker> getList(){
-        return this.listOfWorkers;
-    }
-
     
-
     void openServer(){
         try{
             this.serverSocket = new ServerSocket(5000);
-            while (true){
+            int i = 0;
+            while (i <= 3){
                 System.out.println("Waiting for connection..");
                 this.socket = serverSocket.accept();
                 System.out.println("Worker connected");
                 this.out = new ObjectOutputStream(socket.getOutputStream());
                 this.in = new ObjectInputStream(socket.getInputStream());
-                System.out.println(in.readUTF());
-                if (!in.readUTF().isEmpty() ){
-                    break;
-                }      
+                System.out.println(in.readUTF());     
+                i++;
                 //new Thread.run();
             }
         } catch(IOException ioException){
@@ -83,19 +65,16 @@ class Master{ //implements Runnable{
         try{
             in.close();
             out.close();
+            System.out.println("Server shutting down..");
         } catch(IOException ioException){
             ioException.printStackTrace();
         }
     }
 
     public static void main(String args[]){
-        Master master = new Master(Integer.parseInt(args[0]));
+        Master master = new Master(4);
         System.out.println("The number of workers is " + master.getNumOfWorkers());
         master.openServer();
-        System.out.println(master.getList().size());
-        for (Worker worker : master.getList()){
-            System.out.print("mphka sto loop");
-            worker.run();
-        }
+        master.disconnect();
     }
 }

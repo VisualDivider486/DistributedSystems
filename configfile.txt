@@ -1,0 +1,20 @@
+WORKER
+{
+    ID 1
+    PORT 5001
+}
+WORKER
+{
+    ID 2
+    PORT 5002
+}
+WORKER
+{
+    ID 3
+    PORT 5003
+}
+WORKER
+{
+    ID 4
+    PORT 5004
+}
