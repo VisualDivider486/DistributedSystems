@@ -1,3 +1,4 @@
+
 import java.io.File;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.DocumentBuilder;
@@ -9,7 +10,7 @@ import java.util.ArrayList;
 public class GpxParser {
     public static void main(String[] args) {
         try {
-            File xmlFile = new File("filename.gpx"); // Replace with the path to your XML file
+            File xmlFile = new File("segment1.gpx"); // Replace with the path to your XML file
             //ArrayList<String> lat_list =new ArrayList<String>();
             //ArrayList<String> lon_list =new ArrayList<String>();
             //ArrayList<String> element_list =new ArrayList<String>();
@@ -28,14 +29,16 @@ public class GpxParser {
             Element gpxElement = (Element) gpxNode.item(0);
             String creator = gpxElement.getAttribute("creator");
             
-            ArrayList<Waypoint> all_waypoints_list;
+            ArrayList<Waypoint> all_waypoints_list=new ArrayList<Waypoint>();
             Waypoint waypoint;
             
             for (int i = 0; i < wptNodes.getLength(); i++) {
                 Element wptElement = (Element) wptNodes.item(i);
-                double lat = wptElement.getAttribute("lat");
-                double lon = wptElement.getAttribute("lon");
-                float ele = wptElement.getElementsByTagName("ele").item(0).getTextContent();
+                
+                double lat = Double.parseDouble(wptElement.getAttribute("lat"));
+                double lon = Double.parseDouble(wptElement.getAttribute("lon"));
+                float ele =Float.parseFloat(wptElement.getElementsByTagName("ele").item(0).getTextContent());
+                
                 String time = wptElement.getElementsByTagName("time").item(0).getTextContent();
                 
                 waypoint =new Waypoint(time,ele,lat,lon);
@@ -45,10 +48,10 @@ public class GpxParser {
                 //System.out.println("Longitude: " + lon);lon_list.add(lon);
                 //System.out.println("Elevation: " + ele);element_list.add(ele);
                 //System.out.println("Time: " + time);time_list.add(time);
-                System.out.println();
+                //System.out.println();
             }
             for(Waypoint a:all_waypoints_list){
-                System.out.println("lat is "+a.lat");   
+                System.out.println("lat is "+a.lat);   
             }
             System.out.println("creator was "+creator);
         } catch (Exception e) {
