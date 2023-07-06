@@ -1,0 +1,124 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <permission
+14-->[androidx.core:core:1.9.0] C:\Users\deepblueibm\.gradle\caches\transforms-3\740b13c6aacf986a4a20be38916f32a7\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+15        android:name="com.example.myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+15-->[androidx.core:core:1.9.0] C:\Users\deepblueibm\.gradle\caches\transforms-3\740b13c6aacf986a4a20be38916f32a7\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+16        android:protectionLevel="signature" />
+16-->[androidx.core:core:1.9.0] C:\Users\deepblueibm\.gradle\caches\transforms-3\740b13c6aacf986a4a20be38916f32a7\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+17
+18    <uses-permission android:name="com.example.myapplication.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+18-->[androidx.core:core:1.9.0] C:\Users\deepblueibm\.gradle\caches\transforms-3\740b13c6aacf986a4a20be38916f32a7\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+18-->[androidx.core:core:1.9.0] C:\Users\deepblueibm\.gradle\caches\transforms-3\740b13c6aacf986a4a20be38916f32a7\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+19
+20    <application
+20-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:8:5-35:19
+21        android:allowBackup="true"
+21-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:9:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.9.0] C:\Users\deepblueibm\.gradle\caches\transforms-3\740b13c6aacf986a4a20be38916f32a7\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+23        android:dataExtractionRules="@xml/data_extraction_rules"
+23-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:10:9-65
+24        android:debuggable="true"
+25        android:extractNativeLibs="false"
+26        android:fullBackupContent="@xml/backup_rules"
+26-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:11:9-54
+27        android:icon="@mipmap/new_launcher"
+27-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:12:9-44
+28        android:label="@string/app_name"
+28-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:13:9-41
+29        android:roundIcon="@mipmap/new_launcher"
+29-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:14:9-49
+30        android:supportsRtl="true"
+30-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:15:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.MyApplication" >
+32-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:16:9-51
+33        <activity
+33-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:18:9-20:40
+34            android:name="com.example.myapplication.StatsActivity"
+34-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:19:13-42
+35            android:exported="false" />
+35-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:20:13-37
+36        <activity
+36-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:21:9-23:40
+37            android:name="com.example.myapplication.NewActivity"
+37-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:22:13-40
+38            android:exported="false" />
+38-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:23:13-37
+39        <activity
+39-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:24:9-34:20
+40            android:name="com.example.myapplication.MainActivity"
+40-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:25:13-41
+41            android:exported="true"
+41-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:26:13-36
+42            android:label="@string/app_name"
+42-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:27:13-45
+43            android:theme="@style/Theme.MyApplication" >
+43-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:28:13-55
+44            <intent-filter>
+44-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:29:13-33:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:30:17-69
+45-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:30:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:32:17-77
+47-->C:\Users\deepblueibm\Desktop\MyApplication\app\src\main\AndroidManifest.xml:32:27-74
+48            </intent-filter>
+49        </activity>
+50
+51        <provider
+51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\deepblueibm\.gradle\caches\transforms-3\30b686f057d175d2d3d1baf5787a8a31\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+52            android:name="androidx.startup.InitializationProvider"
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\deepblueibm\.gradle\caches\transforms-3\30b686f057d175d2d3d1baf5787a8a31\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+53            android:authorities="com.example.myapplication.androidx-startup"
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\deepblueibm\.gradle\caches\transforms-3\30b686f057d175d2d3d1baf5787a8a31\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+54            android:exported="false" >
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\deepblueibm\.gradle\caches\transforms-3\30b686f057d175d2d3d1baf5787a8a31\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+55            <meta-data
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\deepblueibm\.gradle\caches\transforms-3\30b686f057d175d2d3d1baf5787a8a31\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+56                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\deepblueibm\.gradle\caches\transforms-3\30b686f057d175d2d3d1baf5787a8a31\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+57                android:value="androidx.startup" />
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\deepblueibm\.gradle\caches\transforms-3\30b686f057d175d2d3d1baf5787a8a31\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+58            <meta-data
+58-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\deepblueibm\.gradle\caches\transforms-3\dc624f5620ee71f8886f497c160733e9\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+59                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+59-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\deepblueibm\.gradle\caches\transforms-3\dc624f5620ee71f8886f497c160733e9\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+60                android:value="androidx.startup" />
+60-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\deepblueibm\.gradle\caches\transforms-3\dc624f5620ee71f8886f497c160733e9\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+61        </provider>
+62
+63        <uses-library
+63-->[androidx.window:window:1.0.0] C:\Users\deepblueibm\.gradle\caches\transforms-3\ded41886acaa54c516981847d898fe6d\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+64            android:name="androidx.window.extensions"
+64-->[androidx.window:window:1.0.0] C:\Users\deepblueibm\.gradle\caches\transforms-3\ded41886acaa54c516981847d898fe6d\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+65            android:required="false" />
+65-->[androidx.window:window:1.0.0] C:\Users\deepblueibm\.gradle\caches\transforms-3\ded41886acaa54c516981847d898fe6d\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+66        <uses-library
+66-->[androidx.window:window:1.0.0] C:\Users\deepblueibm\.gradle\caches\transforms-3\ded41886acaa54c516981847d898fe6d\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+67            android:name="androidx.window.sidecar"
+67-->[androidx.window:window:1.0.0] C:\Users\deepblueibm\.gradle\caches\transforms-3\ded41886acaa54c516981847d898fe6d\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+68            android:required="false" />
+68-->[androidx.window:window:1.0.0] C:\Users\deepblueibm\.gradle\caches\transforms-3\ded41886acaa54c516981847d898fe6d\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+69    </application>
+70
+71</manifest>

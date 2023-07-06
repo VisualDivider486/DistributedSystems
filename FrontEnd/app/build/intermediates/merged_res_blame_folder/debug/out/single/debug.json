@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-mdpi_new_launcher_foreground.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-mdpi\\new_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xhdpi_backround_1_foreground.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xhdpi\\backround_1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xxxhdpi_launcher_round.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xxxhdpi\\launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xxxhdpi_new_launcher_round.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xxxhdpi\\new_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-hdpi_backround_1_foreground.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-hdpi\\backround_1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-hdpi_new_launcher_foreground.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-hdpi\\new_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xxhdpi_backround_1.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xxhdpi\\backround_1.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xhdpi_backround_1_round.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xhdpi\\backround_1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xxxhdpi_backround_1_round.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xxxhdpi\\backround_1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xxxhdpi_launcher_foreground.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xxxhdpi\\launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xhdpi_new_launcher_round.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xhdpi\\new_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xxhdpi_launcher_round.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xxhdpi\\launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xhdpi_launcher_foreground.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xhdpi\\launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-anydpi-v26_launcher_round.xml.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-anydpi-v26\\launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-anydpi-v26_backround_1.xml.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-anydpi-v26\\backround_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-mdpi_launcher_round.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-mdpi\\launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xhdpi_backround_1.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xhdpi\\backround_1.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\layout_activity_stats.xml.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\layout\\activity_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xxxhdpi_new_launcher.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xxxhdpi\\new_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-hdpi_backround_1.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-hdpi\\backround_1.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-hdpi_launcher_round.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-hdpi\\launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xxhdpi_new_launcher_foreground.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xxhdpi\\new_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xxhdpi_backround_1_round.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xxhdpi\\backround_1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xxxhdpi_backround_1_foreground.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xxxhdpi\\backround_1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-mdpi_new_launcher_round.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-mdpi\\new_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\drawable_ic_plus.xml.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\drawable\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xxxhdpi_new_launcher_foreground.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xxxhdpi\\new_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\drawable_fab_background.xml.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\drawable\\fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-mdpi_backround_1.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-mdpi\\backround_1.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xxhdpi_backround_1_foreground.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xxhdpi\\backround_1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xxhdpi_launcher_foreground.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xxhdpi\\launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-anydpi-v26_backround_1_round.xml.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-anydpi-v26\\backround_1_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-hdpi_new_launcher.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-hdpi\\new_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xhdpi_new_launcher.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xhdpi\\new_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-hdpi_launcher_foreground.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-hdpi\\launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\navigation_nav_graph2.xml.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\navigation\\nav_graph2.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xhdpi_new_launcher_foreground.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xhdpi\\new_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-mdpi_backround_1_foreground.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-mdpi\\backround_1_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-hdpi_backround_1_round.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-hdpi\\backround_1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\drawable_background_1.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\drawable\\background_1.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-mdpi_launcher_foreground.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-mdpi\\launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xxhdpi_new_launcher.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xxhdpi\\new_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-mdpi_backround_1_round.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-mdpi\\backround_1_round.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-anydpi-v26_new_launcher.xml.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-anydpi-v26\\new_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-anydpi-v26_new_launcher_round.xml.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-anydpi-v26\\new_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-mdpi_new_launcher.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-mdpi\\new_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\layout_activity_new.xml.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\layout\\activity_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-hdpi_new_launcher_round.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-hdpi\\new_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xxhdpi_new_launcher_round.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xxhdpi\\new_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-xxxhdpi_backround_1.png.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-xxxhdpi\\backround_1.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-40:/layout_activity_new.xml.flat",
+        "source": "com.example.myapplication.app-main-42:/layout/activity_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-merged_res-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-39:\\layout\\activity_stats.xml",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\layout\\activity_stats.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-39:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-mergeDebugResources-39:\\layout\\activity_new.xml",
+        "source": "C:\\Users\\deepblueibm\\.gradle\\daemon\\8.0\\com.example.myapplication.app-main-42:\\layout\\activity_new.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-39:/layout/activity_new.xml",
+        "source": "com.example.myapplication.app-main-42:/layout/activity_new.xml"
+    }
+]

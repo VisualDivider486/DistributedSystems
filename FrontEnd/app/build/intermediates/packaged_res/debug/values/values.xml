@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backround_1_background">#4A684D</color>
+    <color name="black">#FF000000</color>
+    <color name="launcher_background">#4A684D</color>
+    <color name="new_launcher_background">#4A684D</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="bar_chart_height">200dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name"><b>Walk IT</b></string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication"/>
+</resources>

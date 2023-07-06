@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".StatsActivity">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbar"
+        android:layout_width = "match_parent"
+        android:background="#0009ff"
+        android:layout_height = "?attr/actionBarSize"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|top"
+        android:layout_marginTop="80dp"
+        android:padding="20dp"
+        android:text="Walk IT"
+        android:textColor="#010203"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        tools:ignore="MissingConstraints" />
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/distanceDifference"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Distance Difference"
+            android:textSize="18sp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="110dp"
+            android:textStyle="bold"
+            android:layout_marginTop="70dp" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/elevationDifference"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Elevation Difference"
+            android:textSize="18sp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="110dp"
+            android:textStyle="bold"
+            android:layout_marginTop="300dp" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/timeDifference"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Time Difference"
+            android:textSize="18sp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="110dp"
+            android:textStyle="bold"
+            android:layout_marginTop="550dp" />
+
+
+    </RelativeLayout>
+
+
+
+
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- Other views in the layout -->
+
+        <com.github.mikephil.charting.charts.BarChart
+            android:id="@+id/barChartDistance"
+            android:layout_width="200dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="105dp"
+            android:layout_marginTop="90dp"/>
+
+    </FrameLayout>
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- Other views in the layout -->
+
+        <com.github.mikephil.charting.charts.BarChart
+            android:id="@+id/barChartElevation"
+            android:layout_width="200dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="105dp"
+            android:layout_marginTop="330dp"/>
+
+    </FrameLayout>
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- Other views in the layout -->
+
+        <com.github.mikephil.charting.charts.BarChart
+            android:id="@+id/barChartTime"
+            android:layout_width="200dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="105dp"
+            android:layout_marginTop="580dp"/>
+
+    </FrameLayout>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
