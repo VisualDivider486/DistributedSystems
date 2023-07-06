@@ -1,4 +1,4 @@
-#Walk IT
+# Walk IT
 
 This was a project done as part of Distributed Systems' course in the 6th semester of college.
 Its purpose is to take routes in xml waypoints ran from a person and returns back
