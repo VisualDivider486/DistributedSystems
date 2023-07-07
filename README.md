@@ -1,8 +1,8 @@
 # Walk IT
 
-This was a project done as part of Distributed Systems' course in the 6th semester of college.
+This was a project done as part of Distributed Systems' course in my 6th semester of college.
 Its purpose is to take routes in xml waypoints ran from a person and returns back
-statics of his current as well as total stats and tells him how he has done in comparison to the 
+statistics of his current as well as total stats and tells him how he has done in comparison to the 
 other's users data.
 
 It involves a Master and as many Workers (default is two) and Clients we need.A client sends over a route
